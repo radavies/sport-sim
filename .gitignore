@@ -131,3 +131,5 @@ dmypy.json
 .idea
 
 raw_data/
+
+.DS_Store

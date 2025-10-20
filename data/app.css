@@ -1,0 +1,17 @@
+QWidget {
+    font-size: 15px;
+    margin: 10px;
+}
+
+QPushButton {
+    font-size: 20px;
+    padding: 15px;
+}
+
+QListWidget {
+    font-size: 15px;
+}
+
+QLabel#headingLbl {
+ font-size: 25px;
+}
